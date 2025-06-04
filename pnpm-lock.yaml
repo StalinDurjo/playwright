@@ -9,7 +9,7 @@ importers:
   .:
     devDependencies:
       '@playwright/test':
-        specifier: ^1.52.0
+        specifier: ^1.49.0
         version: 1.52.0
       '@types/node':
         specifier: ^22.15.29
