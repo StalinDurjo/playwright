@@ -17,4 +17,4 @@ test('get started link', async ({ page }) => {
   await expect(page.getByRole('heading', { name: 'Installation' })).toBeVisible();
 });
 
-// Test 2
+// Test 3
